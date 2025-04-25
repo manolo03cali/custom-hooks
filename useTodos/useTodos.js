@@ -2,7 +2,7 @@
 import { useEffect, useReducer } from "react";
 
 // Importa el reducer personalizado que contiene la lógica para manejar los todos
-import { todoReducer } from "../08-useReducer/todoReducer";
+import { todoReducer } from "./todoReducer";
 
 //Estructura de los datos en el estado inicial vacío)
 /*
